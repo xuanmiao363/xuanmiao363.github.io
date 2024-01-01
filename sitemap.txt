@@ -1,2 +1,2 @@
-https://xuanmiao363.github.io/project/2023/12/30/hello-world/
-https://xuanmiao363.github.io/project
+http://example.com/2023/12/30/hello-world/
+http://example.com/
