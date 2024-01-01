@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="https://xuanmiao363.github.io/atom.xml" rel="self"/>
+  <link href="https://xuanmiao363.github.io/project/atom.xml" rel="self"/>
   
-  <link href="https://xuanmiao363.github.io/"/>
+  <link href="https://xuanmiao363.github.io/project/"/>
   <updated>2023-12-30T14:27:22.282Z</updated>
-  <id>https://xuanmiao363.github.io/</id>
+  <id>https://xuanmiao363.github.io/project/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://xuanmiao363.github.io/2023/12/30/hello-world/"/>
-    <id>https://xuanmiao363.github.io/2023/12/30/hello-world/</id>
+    <link href="https://xuanmiao363.github.io/project/2023/12/30/hello-world/"/>
+    <id>https://xuanmiao363.github.io/project/2023/12/30/hello-world/</id>
     <published>2023-12-30T14:27:22.281Z</published>
     <updated>2023-12-30T14:27:22.282Z</updated>
     
